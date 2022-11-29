@@ -30,7 +30,7 @@ Supporting features
 
 
 
-Initialize the Megamenu
+Initialize the Drag and Drop Collision
 ---
 
 ```
@@ -48,6 +48,6 @@ jddc.init(jddcObj);
 
 ```
 
-checkout the demo on codepen [j-mmenu](https://codepen.io/JobyJoDiyon/pen/oNyMarb).
+checkout the demo on codepen [j-ddcollision](https://codepen.io/JobyJoDiyon/pen/oNyMarb).
 
 [check live demo here](https://jobyaj.github.io/j-ddcollision/)
