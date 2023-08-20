@@ -35,13 +35,13 @@ Initialize the Drag and Drop Collision
 
 ```
 var jddcObj = {
-    resize:true, //resize property , dafault value false /// boolean value
-    parent:'j-ddc-wrap', // parent selector , dafault value j-ddc-wrap
-    selector:'j-ddc-ele', // drag element , dafault value j-ddc-ele
-    overlapClass:'j-ddc-overlap', // overlap identifier class ,  dafault j-ddc-overlap
-    collisionClass:'j-ddc-collision', // collision identifier class ,  dafault j-ddc-collision
-    minSize:10, // min size of block related to resizing ,  dafault 10
-    ruler:true // ruler for drag blocks ,  dafault is false /// boolean value
+    resize:true, //resize property , default value false /// boolean value
+    parent:'j-ddc-wrap', // parent selector , default value j-ddc-wrap
+    selector:'j-ddc-ele', // drag element , default value j-ddc-ele
+    overlapClass:'j-ddc-overlap', // overlap identifier class ,  default j-ddc-overlap
+    collisionClass:'j-ddc-collision', // collision identifier class ,  default j-ddc-collision
+    minSize:10, // min size of block related to resizing ,  default 10
+    ruler:true // ruler for drag blocks ,  default is false /// boolean value
 }
 
 jddc.init(jddcObj);
